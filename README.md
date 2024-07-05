@@ -1,4 +1,8 @@
 # medical_image_classification
+First of all, due to ethical concerns, the dataset used in this project will not be shared directly.
+The link to the dataset and the studies conducted on this dataset are provided:
+https://data.mendeley.com/datasets/zr7vgbcyr2/1
+
 Detecting racial and gender bias on the medical images and their metadata.
 And preventing this bias with bias mitigation.
 
